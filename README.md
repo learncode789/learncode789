@@ -1,4 +1,7 @@
 ### Hi there 👋 I am Parth
+I am a Senior SRE/DevOps Engineer. I have two masters and currently pursuing my doctorate from Indiana Wesleyan University. I have experience with a different set of industries. I have helped different organizations in their pursuit of improvement in the DevOps and SRE landscape with my capacity as a consultant and as a  full-time. I am involved in migrations of cloud,CICD, monitoring tools, and transitions to orchestrating tools. I have provided post-migration support and also worked on continuous improvements. I love exploring new tools and learning technologies. 
+
+==============================================================================================================================
 Toolbox 🧰
 
 
