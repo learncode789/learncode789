@@ -2,8 +2,7 @@
 Toolbox 🧰
 
 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt ="GCP logo" height ="50" width = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt ="Azure logo" height ="50" width = "50"/>
-
+<img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt ="GCP logo" height ="50" width = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt ="Azure logo" height ="50" width = "50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt ="AWS logo" height ="50" width = "50"/>
 
 <!--
 **learncode789/learncode789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
